@@ -19,8 +19,8 @@
 #### • Category Performance: Contribution of different product categories to revenue.
 #### • Profitability Analysis: Insights into profit margins across categories and orders.
 # 6. Tools and Techniques
-#### Software Used: Microsoft Power BI
-#### Techniques Applied:
+#### 1. Software Used: Microsoft Power BI
+#### 2. Techniques Applied:
 ##### • Data joins and transformations for insights.
 ##### • Parameter-driven customizations for interactive dashboards.
 ##### • Advanced visualization techniques.
